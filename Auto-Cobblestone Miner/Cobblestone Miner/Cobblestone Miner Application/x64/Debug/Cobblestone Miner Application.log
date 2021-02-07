@@ -1,0 +1,45 @@
+﻿  Cobblestone Miner Application.cpp
+C:\Users\Eliah\Desktop\Stuff\C++\Cobblestone Miner\Cobblestone Miner Application\Cobblestone Miner Application.cpp(51,31): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Eliah\Desktop\Stuff\C++\Cobblestone Miner\Cobblestone Miner Application\Cobblestone Miner Application.cpp(63,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Eliah\Desktop\Stuff\C++\Cobblestone Miner\Cobblestone Miner Application\Cobblestone Miner Application.cpp(66,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Eliah\Desktop\Stuff\C++\Cobblestone Miner\Cobblestone Miner Application\Cobblestone Miner Application.cpp(69,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Eliah\Desktop\Stuff\C++\Cobblestone Miner\Cobblestone Miner Application\Cobblestone Miner Application.cpp(73,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Eliah\Desktop\Stuff\C++\Cobblestone Miner\Cobblestone Miner Application\Cobblestone Miner Application.cpp(77,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Eliah\Desktop\Stuff\C++\Cobblestone Miner\Cobblestone Miner Application\Cobblestone Miner Application.cpp(81,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Eliah\Desktop\Stuff\C++\Cobblestone Miner\Cobblestone Miner Application\Cobblestone Miner Application.cpp(90,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Eliah\Desktop\Stuff\C++\Cobblestone Miner\Cobblestone Miner Application\Cobblestone Miner Application.cpp(94,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Eliah\Desktop\Stuff\C++\Cobblestone Miner\Cobblestone Miner Application\Cobblestone Miner Application.cpp(98,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Eliah\Desktop\Stuff\C++\Cobblestone Miner\Cobblestone Miner Application\Cobblestone Miner Application.cpp(102,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Eliah\Desktop\Stuff\C++\Cobblestone Miner\Cobblestone Miner Application\Cobblestone Miner Application.cpp(106,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Eliah\Desktop\Stuff\C++\Cobblestone Miner\Cobblestone Miner Application\Cobblestone Miner Application.cpp(110,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Eliah\Desktop\Stuff\C++\Cobblestone Miner\Cobblestone Miner Application\Cobblestone Miner Application.cpp(118,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Eliah\Desktop\Stuff\C++\Cobblestone Miner\Cobblestone Miner Application\Cobblestone Miner Application.cpp(122,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Eliah\Desktop\Stuff\C++\Cobblestone Miner\Cobblestone Miner Application\Cobblestone Miner Application.cpp(126,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Eliah\Desktop\Stuff\C++\Cobblestone Miner\Cobblestone Miner Application\Cobblestone Miner Application.cpp(130,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Eliah\Desktop\Stuff\C++\Cobblestone Miner\Cobblestone Miner Application\Cobblestone Miner Application.cpp(134,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Eliah\Desktop\Stuff\C++\Cobblestone Miner\Cobblestone Miner Application\Cobblestone Miner Application.cpp(138,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Eliah\Desktop\Stuff\C++\Cobblestone Miner\Cobblestone Miner Application\Cobblestone Miner Application.cpp(146,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Eliah\Desktop\Stuff\C++\Cobblestone Miner\Cobblestone Miner Application\Cobblestone Miner Application.cpp(150,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Eliah\Desktop\Stuff\C++\Cobblestone Miner\Cobblestone Miner Application\Cobblestone Miner Application.cpp(154,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Eliah\Desktop\Stuff\C++\Cobblestone Miner\Cobblestone Miner Application\Cobblestone Miner Application.cpp(158,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Eliah\Desktop\Stuff\C++\Cobblestone Miner\Cobblestone Miner Application\Cobblestone Miner Application.cpp(162,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Eliah\Desktop\Stuff\C++\Cobblestone Miner\Cobblestone Miner Application\Cobblestone Miner Application.cpp(166,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Eliah\Desktop\Stuff\C++\Cobblestone Miner\Cobblestone Miner Application\Cobblestone Miner Application.cpp(174,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Eliah\Desktop\Stuff\C++\Cobblestone Miner\Cobblestone Miner Application\Cobblestone Miner Application.cpp(178,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Eliah\Desktop\Stuff\C++\Cobblestone Miner\Cobblestone Miner Application\Cobblestone Miner Application.cpp(182,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Eliah\Desktop\Stuff\C++\Cobblestone Miner\Cobblestone Miner Application\Cobblestone Miner Application.cpp(186,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Eliah\Desktop\Stuff\C++\Cobblestone Miner\Cobblestone Miner Application\Cobblestone Miner Application.cpp(190,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Eliah\Desktop\Stuff\C++\Cobblestone Miner\Cobblestone Miner Application\Cobblestone Miner Application.cpp(193,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Eliah\Desktop\Stuff\C++\Cobblestone Miner\Cobblestone Miner Application\Cobblestone Miner Application.cpp(201,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Eliah\Desktop\Stuff\C++\Cobblestone Miner\Cobblestone Miner Application\Cobblestone Miner Application.cpp(205,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Eliah\Desktop\Stuff\C++\Cobblestone Miner\Cobblestone Miner Application\Cobblestone Miner Application.cpp(209,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Eliah\Desktop\Stuff\C++\Cobblestone Miner\Cobblestone Miner Application\Cobblestone Miner Application.cpp(213,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Eliah\Desktop\Stuff\C++\Cobblestone Miner\Cobblestone Miner Application\Cobblestone Miner Application.cpp(217,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Eliah\Desktop\Stuff\C++\Cobblestone Miner\Cobblestone Miner Application\Cobblestone Miner Application.cpp(221,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Eliah\Desktop\Stuff\C++\Cobblestone Miner\Cobblestone Miner Application\Cobblestone Miner Application.cpp(230,25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Eliah\Desktop\Stuff\C++\Cobblestone Miner\Cobblestone Miner Application\Cobblestone Miner Application.cpp(318,26): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+C:\Users\Eliah\Desktop\Stuff\C++\Cobblestone Miner\Cobblestone Miner Application\Cobblestone Miner Application.cpp(432,18): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\Users\Eliah\Desktop\Stuff\C++\Cobblestone Miner\Cobblestone Miner Application\Cobblestone Miner Application.cpp(433,29): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Eliah\Desktop\Stuff\C++\Cobblestone Miner\Cobblestone Miner Application\Cobblestone Miner Application.cpp(442,68): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Eliah\Desktop\Stuff\C++\Cobblestone Miner\Cobblestone Miner Application\Cobblestone Miner Application.cpp(448,35): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Cobblestone Miner Application.vcxproj -> C:\Users\Eliah\Desktop\Stuff\C++\Cobblestone Miner\Cobblestone Miner Application\x64\Debug\Cobblestone Miner Application.exe

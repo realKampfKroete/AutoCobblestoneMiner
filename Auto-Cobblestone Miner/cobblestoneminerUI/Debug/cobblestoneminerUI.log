@@ -1,0 +1,43 @@
+﻿  UserInterface.cpp
+C:\Users\Eliah\Desktop\Stuff\C++\cobblestoneminerUI\UserInterface.h(114,1): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Eliah\Desktop\Stuff\C++\cobblestoneminerUI\UserInterface.h(126,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Eliah\Desktop\Stuff\C++\cobblestoneminerUI\UserInterface.h(129,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Eliah\Desktop\Stuff\C++\cobblestoneminerUI\UserInterface.h(132,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Eliah\Desktop\Stuff\C++\cobblestoneminerUI\UserInterface.h(136,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Eliah\Desktop\Stuff\C++\cobblestoneminerUI\UserInterface.h(140,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Eliah\Desktop\Stuff\C++\cobblestoneminerUI\UserInterface.h(144,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Eliah\Desktop\Stuff\C++\cobblestoneminerUI\UserInterface.h(153,47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Eliah\Desktop\Stuff\C++\cobblestoneminerUI\UserInterface.h(157,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Eliah\Desktop\Stuff\C++\cobblestoneminerUI\UserInterface.h(161,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Eliah\Desktop\Stuff\C++\cobblestoneminerUI\UserInterface.h(165,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Eliah\Desktop\Stuff\C++\cobblestoneminerUI\UserInterface.h(169,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Eliah\Desktop\Stuff\C++\cobblestoneminerUI\UserInterface.h(173,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Eliah\Desktop\Stuff\C++\cobblestoneminerUI\UserInterface.h(181,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Eliah\Desktop\Stuff\C++\cobblestoneminerUI\UserInterface.h(185,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Eliah\Desktop\Stuff\C++\cobblestoneminerUI\UserInterface.h(189,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Eliah\Desktop\Stuff\C++\cobblestoneminerUI\UserInterface.h(193,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Eliah\Desktop\Stuff\C++\cobblestoneminerUI\UserInterface.h(197,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Eliah\Desktop\Stuff\C++\cobblestoneminerUI\UserInterface.h(201,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Eliah\Desktop\Stuff\C++\cobblestoneminerUI\UserInterface.h(209,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Eliah\Desktop\Stuff\C++\cobblestoneminerUI\UserInterface.h(213,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Eliah\Desktop\Stuff\C++\cobblestoneminerUI\UserInterface.h(217,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Eliah\Desktop\Stuff\C++\cobblestoneminerUI\UserInterface.h(221,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Eliah\Desktop\Stuff\C++\cobblestoneminerUI\UserInterface.h(225,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Eliah\Desktop\Stuff\C++\cobblestoneminerUI\UserInterface.h(229,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Eliah\Desktop\Stuff\C++\cobblestoneminerUI\UserInterface.h(237,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Eliah\Desktop\Stuff\C++\cobblestoneminerUI\UserInterface.h(241,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Eliah\Desktop\Stuff\C++\cobblestoneminerUI\UserInterface.h(245,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Eliah\Desktop\Stuff\C++\cobblestoneminerUI\UserInterface.h(249,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Eliah\Desktop\Stuff\C++\cobblestoneminerUI\UserInterface.h(253,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Eliah\Desktop\Stuff\C++\cobblestoneminerUI\UserInterface.h(256,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Eliah\Desktop\Stuff\C++\cobblestoneminerUI\UserInterface.h(264,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Eliah\Desktop\Stuff\C++\cobblestoneminerUI\UserInterface.h(268,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Eliah\Desktop\Stuff\C++\cobblestoneminerUI\UserInterface.h(272,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Eliah\Desktop\Stuff\C++\cobblestoneminerUI\UserInterface.h(276,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Eliah\Desktop\Stuff\C++\cobblestoneminerUI\UserInterface.h(280,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Eliah\Desktop\Stuff\C++\cobblestoneminerUI\UserInterface.h(284,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Eliah\Desktop\Stuff\C++\cobblestoneminerUI\UserInterface.h(293,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Eliah\Desktop\Stuff\C++\cobblestoneminerUI\UserInterface.h(328,22): warning C4244: 'argument': conversion from 'float' to 'DWORD', possible loss of data
+C:\Users\Eliah\Desktop\Stuff\C++\cobblestoneminerUI\UserInterface.cpp(8,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  UserInterface.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+LINK : fatal error LNK1561: entry point must be defined
