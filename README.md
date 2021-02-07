@@ -36,3 +36,5 @@
 There's also a console version available:
 
 <img src="pictures/consoleApplication.png" width="250" >
+
+© KampfKroete (realKampfKroete) 2021
