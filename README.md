@@ -30,7 +30,8 @@
 
 *Netherite Pickaxe with efficiency 3, from Slot 4 to Slot 6 and some food in the offhand*
 
-**If you want to manually stop mining, tap out of the game and press "Stop Mining". (might take a double click to do so)**
+**If you want to manually stop mining, tap out of the game and press "Stop Mining".
+(it might take a double click to do so)**
 
 
 There's also a console version available:
